@@ -1,5 +1,5 @@
 import React from 'react';
-import style from '../recetteList.css';
+import style from '../recetteList.module.css';
 
 
 const RecetteList = ({title, ingredients, image, calories}) =>{
